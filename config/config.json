@@ -1,0 +1,10 @@
+{
+    "dev": {
+        "username": "root",
+        "password": "",
+        "database": "vrs",
+        "host": "localhost",
+        "dialect": "mysql",
+        "operatorsAliases": false
+    }
+}
